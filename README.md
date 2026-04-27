@@ -75,5 +75,14 @@ This project applies machine learning techniques to analyze global terrorism dat
 
 ---
 
+
+# United Nation Global Terrorsim Analysis Report 
+<img width="1159" height="658" alt="image" src="https://github.com/user-attachments/assets/6cbbfc42-29af-4ee0-ad59-972f8c2ceff7" />
+
+---
+<img width="1150" height="649" alt="image" src="https://github.com/user-attachments/assets/271a1bb6-8138-436e-812b-900b8ada1f90" />
+
+
+---
 ## Author
 **Mayur Shewale**
