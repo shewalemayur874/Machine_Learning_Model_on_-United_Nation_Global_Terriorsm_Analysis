@@ -46,6 +46,9 @@ This project applies machine learning techniques to analyze global terrorism dat
 ### 4️. Model Evaluation
 - Accuracy Score  
 - Confusion Matrix  
+<img width="666" height="590" alt="image" src="https://github.com/user-attachments/assets/f717a6c4-22df-4dc6-bae4-4a5665e8b0b9" />\
+<img width="657" height="432" alt="image" src="https://github.com/user-attachments/assets/bf50db4f-c3cf-468a-9fff-1f3f118a8b61" />
+
 
 ---
 
@@ -61,7 +64,7 @@ This project applies machine learning techniques to analyze global terrorism dat
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Visualization:** Power BI / Matplotlib  
-- **Environment:** Jupyter Notebook  
+- **Environment:** Google Colab  
 
 ---
 
